@@ -10,6 +10,8 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        nav: "#18222f",
+        page: "#2b3441",
       },
     },
   },
